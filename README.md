@@ -1,4 +1,4 @@
-# Laravel 5 WooCommerce API Client
+# Laravel WooCommerce API Client
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/pixelpeter/laravel5-woocommerce-api-client.svg?style=flat-square)](https://packagist.org/packages/pixelpeter/laravel5-woocommerce-api-client)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
@@ -9,7 +9,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/pixelpeter/laravel5-woocommerce-api-client.svg?style=flat-square)](https://packagist.org/packages/pixelpeter/laravel5-woocommerce-api-client)
 [![Coverage Status](https://coveralls.io/repos/github/pixelpeter/laravel5-woocommerce-api-client/badge.svg?branch=master)](https://coveralls.io/github/pixelpeter/laravel5-woocommerce-api-client?branch=master)
 
-A simple Laravel 5 wrapper for the [official WooCommerce REST API PHP Library](https://github.com/woothemes/wc-api-php) from Automattic.
+A simple Laravel wrapper for the [official WooCommerce REST API PHP Library](https://github.com/woothemes/wc-api-php) from Automattic.
 
 ## Version overview
 
